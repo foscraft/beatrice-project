@@ -46,22 +46,6 @@ for embedding in embeddings:
 
 #### Documentation
 
-##### Class: BeatriceVec
-
-The `BeatriceVec` class represents the BeatriceVec embedding model.
-
-##### Constructor
-
-```python
-def __init__(self, corpus: list)
-```
-
-The constructor initializes the BeatriceVec embedding model.
-
-##### Parameters
-
-- `corpus` (list): List of sentences used for training the model.
-
 ##### Methods
 
 - `build_vocab()`: Builds the vocabulary from the corpus.
@@ -71,22 +55,6 @@ The constructor initializes the BeatriceVec embedding model.
 - `get_embeddings() -> list`: Retrieves the embeddings for all words in the vocabulary.
 - `get_embedding(word: str) -> list`: Retrieves the embedding vector for a given word.
 
-##### Example
-
-```python
-corpus = ["I am learning", "Natural language processing", "with BeatriceVec"]
-embedder = BeatriceVec(corpus)
-embedder.build_vocab()
-embedder.initialize_word_vectors()
-embedder.train()
-
-embeddings = embedder.get_embeddings()
-
-for embedding in embeddings:
-    print(embedding)
-```
-
-This example demonstrates how to use BeatriceVec to generate word embeddings from a given corpus of sentences.
 
 #### License
 

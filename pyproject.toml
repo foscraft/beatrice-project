@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "beatrice-project"
-version = "0.1.0"
+name = "beatricevec"
+version = "1.0.1"
 description = ""
 authors = ["foscraft <anyaribari@gmail.com>"]
 readme = "README.md"
