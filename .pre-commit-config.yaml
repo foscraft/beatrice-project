@@ -31,7 +31,7 @@ repos:
    # rev: v1.6.1
    # hooks:
     #  - id: mypy
-    #    language: system
+      #  language: system
 
 
   - repo: https://github.com/asottile/pyupgrade
