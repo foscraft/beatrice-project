@@ -59,6 +59,5 @@ for embedding in embeddings:
 #### License
 
 BeatriceVec is released under the [Apache2.0 License](https://opensource.org/license/apache-2-0/).
-```
 
-Feel free to modify the Markdown file according to your specific requirements or add additional sections if needed.
+How to [CONTRIBUTE](https://opensource.o)
