@@ -23,8 +23,16 @@ Create your embeddings with BeatriceVec and use them to query your model locally
 
 #### Installation
 
+Install package or wheel, both are found in `dist` folder
+
 ```bash
-pip install beatricevec
+#WHEEL
+pip install beatricevec-1.0.1-py3-none-any.whl
+```
+
+```bash
+#PACKAGE
+pip install beatricevec-1.0.1.tar.gz
 ```
 
 #### Usage
