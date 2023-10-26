@@ -35,7 +35,7 @@ pip install beatricevec-1.0.1-py3-none-any.whl
 pip install beatricevec-1.0.1.tar.gz
 ```
 
-Download the wheeml or package [here](https://github.com/foscraft/beatrice-project/tree/main/dist)
+Download the wheel or package [here](https://github.com/foscraft/beatrice-project/tree/main/dist)
 
 #### Usage
 
