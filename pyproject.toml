@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pip-shims = "^0.7.3"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -14,6 +15,9 @@ flake8 = "^6.1.0"
 isort = "^5.12.0"
 mypy = "^1.6.1"
 pre-commit = "^3.5.0"
+pyupgrade = "^3.15.0"
+bandit = "^1.7.5"
+black = "^23.10.1"
 
 
 [tool.poetry.group.test.dependencies]
