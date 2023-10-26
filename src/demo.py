@@ -1,4 +1,4 @@
-from .beatriceVec import BeatriceVec
+from beatriceVec import BeatriceVec
 
 corpus = [
     "Stratgies dapprentissage pour la postalphabtisation et lducation continue au Kenya au Nigria en Tanzanie et au RoyaumeUni",
