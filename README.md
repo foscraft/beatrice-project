@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
 [![Github]()](https://github.com/foscraft/beatrice-project/tree/main/dist)
-[![PyPI - Downloads]()](https://github.com/foscraft/beatrice-project/tree/main/dist)
+[![Downloads]()](https://github.com/foscraft/beatrice-project/tree/main/dist)
 
 <div align="center">
 <img src="media/BEATRICEVECTOR.svg" alt="BeatriceVec Logo" width="200px">
