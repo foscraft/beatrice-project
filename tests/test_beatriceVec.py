@@ -11,11 +11,9 @@ sample_corpus = [
     "ECHIDNOPSIS GLOBOSA SPNOV ASCLEPIADACEAESTAPELIEAE FROM YEMEN. The new species Echidnopsis globosa from rocky hillsides on Limestone in the Hadramaut Region in Yemen is described and illustrated.",
 ]
 
-
 @pytest.fixture
 def beatrice_vec_instance():
     return BeatriceVec(sample_corpus)
-
 
 def test_initialize(beatrice_vec_instance):
     assert beatrice_vec_instance.corpus == sample_corpus
