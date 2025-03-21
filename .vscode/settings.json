@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
+        "beatricevec",
+        "embedder",
         "Nyaribari"
-    ]
+    ],
+    "DockerRun.DisableAutoGenerateConfig": true
 }

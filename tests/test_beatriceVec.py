@@ -1,6 +1,6 @@
 import pytest
 
-from beatricevec.main import (  # Import your BeatriceVec class from the main code
+from beatricevec.beats import (  # Import your BeatriceVec class from the main code
     BeatriceVec,
 )
 

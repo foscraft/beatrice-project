@@ -1,1 +1,1 @@
-from .main import BeatriceVec
+from .beats import BeatriceVec
